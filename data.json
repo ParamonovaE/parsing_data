@@ -1,0 +1,26 @@
+[
+    {
+        "link": "https://spb.hh.ru/vacancy/101525768?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "до 470 000 ₽ на руки",
+        "name_of_company": "Точка",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/101676685?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "Уровень дохода не указан",
+        "name_of_company": "AldanDev",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/101864904?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "Уровень дохода не указан",
+        "name_of_company": "ОООИНФОМЕДИА",
+        "city": "Москва, Цветной бульвар, 25с5"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/102660978?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "Уровень дохода не указан",
+        "name_of_company": "Admire",
+        "city": "Москва"
+    }
+]
